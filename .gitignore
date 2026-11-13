@@ -1,0 +1,20 @@
+# build output
+/build/
+/build-*/
+/out/
+
+# local toolchains, if unpacked here
+/tools/
+
+# third-party sources fetched only for study (GPL-3.0, see docs/RESEARCH.md for the URL)
+/research/fusionfix-src/
+
+# run-time files
+*.log
+__pycache__/
+
+# isolated copy of the game for testing and backups of third-party files
+/game_for_test/
+/backup/
+
+/release/

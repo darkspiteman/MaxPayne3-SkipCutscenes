@@ -1,0 +1,7 @@
+LIBRARY dinput8
+EXPORTS
+    DirectInput8Create = _ProxyDirectInput8Create@20
+    DllCanUnloadNow = _ProxyDllCanUnloadNow@0 PRIVATE
+    DllGetClassObject = _ProxyDllGetClassObject@12 PRIVATE
+    DllRegisterServer = _ProxyDllRegisterServer@0 PRIVATE
+    DllUnregisterServer = _ProxyDllUnregisterServer@0 PRIVATE

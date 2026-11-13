@@ -1,0 +1,2 @@
+2a1e7e915b7b5bb4b2efceff5bc1f7016cf40a0b916583e9b801f6744fc01e8d *MP3SkipCutscenes.asi
+c7a8678c76cbc71d2f591ce5972a6dfba2a88112f3e367c93706e90b75c7aaa6 *loader/dinput8.dll
